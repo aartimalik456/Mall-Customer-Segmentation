@@ -1,0 +1,45 @@
+body{
+    background:#f4f7fc;
+}
+
+.main{
+    background:#f4f7fc;
+}
+
+h1{
+    color:#1565C0;
+    text-align:center;
+    font-weight:bold;
+}
+
+h2,h3{
+    color:#1E3A8A;
+}
+
+.stButton>button{
+    width:100%;
+    border-radius:10px;
+    background:#1565C0;
+    color:white;
+    font-size:18px;
+    height:50px;
+}
+
+.stButton>button:hover{
+    background:#0D47A1;
+}
+
+div[data-testid="metric-container"]{
+    background:white;
+    padding:20px;
+    border-radius:15px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.15);
+}
+
+.css-1d391kg{
+    background:#0f172a;
+}
+
+hr{
+    border:1px solid #ddd;
+}
